@@ -2,7 +2,7 @@
 # File: 3drender.py
 # Name: Shadman Ahmed
 # Date Created:  06/01/2020
-# Last Modified: Ongoing 
+# Last Modified: 06/11/2020
 # Usage: N/A
 # Overview: This python script implements geometry and lighting calculations to render 
 # 			an image of a scene of an 3-D object.
