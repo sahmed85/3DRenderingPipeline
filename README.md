@@ -7,3 +7,7 @@ World Transformation --> View Transformation --> Lighting --> Projection Transfo
 **Some Notes**
 - This file follows the LHS system when performing matrix calculations. All matrixes are in the row convention (like D3D/XNA).
 - RGB color of the diffuse material on the object (called m_diff here as parts of Lamebert Cosine Law)
+
+Sample Renders:
+[Example 1](https://drive.google.com/file/d/1nCXxQRFD7GvSrLxvJc7yC3MuZCLZT9Lr/view?usp=sharing)
+[Example 2](https://drive.google.com/file/d/19R-S70DcecpGusfRgQmMGO8RV2Fcuzd9/view?usp=sharing)
